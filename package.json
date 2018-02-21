@@ -8,8 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "workspaces": [
-    "test"
-  ],
-  "private": true
+  "private": true,
+  "dependencies": {
+    "test": "file:./test"
+  }
 }
